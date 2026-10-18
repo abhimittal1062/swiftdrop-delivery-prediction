@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+build/
+dist/
+*.egg-info/
+
+# Virtual environments and secrets
+.venv/
+venv/
+env/
+ENV/
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Notebook runtime
+.ipynb_checkpoints/
+
+# Datasets, models, and generated artifacts
+data/
+models/
+reports/
+mlruns/
+artifacts/
+**/reports/
+**/mlruns/
+*.csv
+*.joblib
+*.pkl
+*.onnx
+*.pth
+*.pt
+*.npz
+
+# MLflow databases and SQLite sidecar files
+mlflow.db
+*.db
+*.db-shm
+*.db-wal
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
