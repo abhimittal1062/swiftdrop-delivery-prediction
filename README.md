@@ -149,3 +149,7 @@ Raw/processed datasets, fitted models, ONNX files, and other generated artifacts
 ## Repository
 
 GitHub: [abhimittal1062/swiftdrop-delivery-prediction](https://github.com/abhimittal1062/swiftdrop-delivery-prediction)
+
+## Architecture Diagram
+
+**[View the SwiftDrop Architecture Diagram (HTML)](.archify/architecture-swiftdrop-delivery-pipeline-20261019-103749/swiftdrop-delivery-pipeline.html)**
